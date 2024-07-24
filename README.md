@@ -22,3 +22,9 @@ How It Works :
 HTML: Contains the basic structure of the page, including the button and image gallery.
 CSS: Provides styling for the page and animations for the images. (e.g., borders, circular motion)
 JavaScript: Handles the logic for generating and displaying a random quote. (Ensure this script is added in script.js.)
+
+Contributing :
+Feel free to fork the repository and submit pull requests. If you encounter any issues or have suggestions, please open an issue on the GitHub repository.
+
+License :
+This project is licensed under the MIT License.
